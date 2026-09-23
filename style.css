@@ -34,3 +34,5 @@ a:hover { text-decoration: underline; }
 .quote .headline { font-weight: 700; }
 .quote p { margin: 6px 0 0; color: var(--muted); font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
 footer { border-top: 1px solid var(--line); margin-top: 48px; padding-top: 16px; color: var(--muted); font-size: 14px; }
+.mark .tm { font-size: 0.4em; font-weight: 500; vertical-align: super; margin-left: 1px; color: var(--muted); }
+.legal { margin: 10px 0 0; font-size: 13px; }
